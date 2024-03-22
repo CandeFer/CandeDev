@@ -26,7 +26,7 @@ const Navbar = () => {
                 <img className='foto-menu' src={Menu} alt="menu" />
             </div>
             <ul className={lista}>
-                <li onClick={() => scrollToElement("SobreMi")}>Sobre mí</li>
+                <li onClick={() => scrollToElement("sobremi")}>Sobre mí</li>
                 <li onClick={() => scrollToElement("Estudios")}>Estudios</li>
                 <li onClick={() => scrollToElement("Habilidades")}>Habilidades</li>
                 <li onClick={() => scrollToElement("Proyectos")}>Proyectos</li>

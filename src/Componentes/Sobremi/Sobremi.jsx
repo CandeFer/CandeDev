@@ -5,7 +5,7 @@ import './sobremi.css';
 
 const SobreMi = () => {
     return (
-        <div className="sobre-mi" id='SobreMi'>
+        <div className="sobre-mi" id='sobremi'>
             <div className="sobre-mi-text">
                 <h1>Sobre mí</h1>
                 <p>¡Hola y bienvenido a mi portfolio! Soy Candela, una apasionada
