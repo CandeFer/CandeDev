@@ -1,7 +1,6 @@
 import Github from '../../assets/Iconos/github.svg';
 import HackerRank from '../../assets/Iconos/hacker.svg';
 import Linkedin from '../../assets/Iconos/linkedin.svg';
-
 import './sobremi.css';
 
 const SobreMi = () => {
