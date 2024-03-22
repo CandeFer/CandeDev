@@ -1,0 +1,39 @@
+.experiencia-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.item-experiencia{
+    min-width: 350px;
+    max-width: 450px;
+    background-color: #212121;
+    border-radius: 5px;
+    margin: 15px;
+}
+
+
+.item-experiencia h3{
+    text-wrap: wrap;
+    color: #B629F2;
+    font-size: 36px;
+
+}
+
+.item-experiencia h5{
+    font-size: 20px;
+    color: #4F4F4F;
+
+}
+
+.item-experiencia h3, h5{
+    text-align: center;
+ 
+}
+.experiencia-text{
+    padding: 10px 30px;
+}
+
+.item-experiencia p{
+    font-size: 22px;
+}

@@ -1,0 +1,33 @@
+.CardS-Container{
+    display: flex;
+    align-content: space-between;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.CardS{
+    background-color: #212121;
+    border-radius: 5px;
+    width: 349px;
+    height: 289px;
+    margin: 15px;
+    margin-bottom: 40px;
+}
+
+.CardS-text{
+    text-align: center;
+  
+}
+
+.CardS-text h3{
+    color: #4F4F4F;
+    font-size: 36px;
+}
+
+.CardS-text button{
+    background-color: #B629F2;
+    color: white;
+    width: 130px;
+    height: 42px;
+    border: none;
+}

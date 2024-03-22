@@ -1,0 +1,53 @@
+:root {
+  --CF: #171717;
+  --FF: Dm sans;
+}
+
+
+body {
+  background-color: var(--CF);
+  font-family: var(--FF);
+  margin: 0;
+}
+
+header{
+height: 80px;
+}
+
+
+
+h1 {
+  text-align: center;
+  font-size: 42px;
+  color: white;
+  letter-spacing: 1px;
+  
+}
+
+p {
+  text-wrap: wrap;
+  color: white;
+
+}
+
+button{
+  border-radius: 2px;
+  font-weight: 600;
+}
+
+
+h3{
+  font-size: clamp(16px, 3rem, 40px)
+}
+
+@media screen and (max-width: 630px) {
+  h1{
+    font-size: clamp(24px, 2.5vw, 20px); 
+  }
+
+  p{
+    font-size: clamp(12px, 2.5vw, 20px)
+  }
+
+ 
+}

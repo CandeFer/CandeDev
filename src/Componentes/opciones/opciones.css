@@ -1,0 +1,46 @@
+.opciones {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.opcion {
+    margin: 2%;
+    background-color: #212121;
+    width: 25%;
+    min-width: 85px;
+    max-height: 241px;
+    min-height: 85px;
+    border-radius: 5px;
+}
+
+.opcion-active {
+    margin-left: 2%;
+    background-color: #212121;
+    max-width: 25%;
+    min-width: 85px;
+    max-height: 241px;
+    min-height: 85px;
+    border-radius: 5px 5px 0 0;
+    border-bottom: 3px solid #B629F2;
+}
+
+.opcion-contenido {
+    margin: 5% 8%;
+}
+
+.opcion-contenido img {
+    height: fit-content;
+}
+
+.opcion h3 {
+  font-size: 1.2rem;
+    color: #535353;
+    text-wrap: wrap;
+
+}
+
+.opcion-active h3 {
+    text-wrap: wrap;
+    color: #535353;
+}

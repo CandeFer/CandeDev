@@ -1,0 +1,42 @@
+
+.habilidades-container {
+    background-color: #212121;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 5px;
+    width: 80%;
+    margin: 0 10%;
+    justify-content: center;
+}
+
+.CardH {
+    width: 22%;
+    min-width: 60px;
+    text-align: center;
+}
+
+.CardH-text h4 {
+    color: #4F4F4F;
+    font-weight: 700;
+    font-size: 4rem;
+    margin-block-end: 10px;
+    margin-block-start: 10px;
+}
+
+.CardH-text p {
+    color: #B629F2;
+    font-weight: 700;
+    font-size: 24px;
+    margin-block-start: 0;
+}
+
+@media screen and (max-width: 800px) {
+
+    .CardH-text h4 {
+        font-size: 1.5rem
+    }
+
+    .CardH-text p {
+        font-size: 12px;
+    }
+}

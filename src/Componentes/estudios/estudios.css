@@ -1,0 +1,39 @@
+.Estudios{
+    display: flex;
+    flex-direction: column;
+}
+
+.infoE {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 4%;
+    margin:3.5%;
+}
+
+.CardE {
+    background-color: #212121;
+    width: 45%;
+    border-radius: 5px;
+    margin: 15px;
+    margin-top: 0;
+    max-width: 50%;
+    min-width: 350px;
+}
+
+.CardE-text {
+    padding: 10px 30px;
+}
+
+.CardE-text h3 {
+    color: #B629F2;
+    font-weight: 500;
+    font-size: 36px;
+    margin-top: 0;
+    margin-block-end: 5px;
+}
+
+.CardE-text p {
+    font-size: 22px;
+    margin-block-start: 10px;
+}

@@ -1,0 +1,282 @@
+{
+  "DG": {
+    "Estudios": [
+      {
+        "titulo": "Tecnicatura en Diseño Gráfico y Multimedial",
+        "descripcion": "En la actualidad, estoy en la carrera de diseño gráfico, explorando su evolución histórica y su aplicación contemporánea. A través de la teoría y ejercicios prácticos, fortalezco mis habilidades mientras aprendo a aplicar este conocimiento en mis propias creaciones creativas.",
+        "id": 1
+      }
+    ],
+    "Habilidades": [
+      {
+        "porcentaje": "75%",
+        "nombre": "Figma",
+        "id": 1
+      },
+      {
+        "porcentaje": "80%",
+        "nombre": "Photoshop",
+        "id": 2
+      },
+      {
+        "porcentaje": "50%",
+        "nombre": "Illustrator",
+        "id": 3
+      },
+      {
+        "porcentaje": "30%",
+        "nombre": "InDesign",
+        "id": 4
+      }
+    ],
+    "Proyectos": [
+      {
+        "nombre": "Folleto",
+        "herramientas": "Adobe Ilustrator",
+        "enlace":"https://drive.google.com/drive/folders/1CiEB9EOjRFpiTxQjg7rmm6RcojcpPVqC",
+        "id": 1
+      },
+      {
+        "nombre": "Infografía",
+        "herramientas": "Adobe Ilustrator",
+        "enlace":"https://drive.google.com/drive/folders/1CiEB9EOjRFpiTxQjg7rmm6RcojcpPVqC",
+        "id": 2
+      },
+      {
+        "nombre": "Poster",
+        "herramientas": "Adobe Ilustrator",
+        "enlace":"https://drive.google.com/drive/folders/1CiEB9EOjRFpiTxQjg7rmm6RcojcpPVqC",
+        "id": 3
+      },
+      {
+        "nombre": "Disco",
+        "herramientas": "Adobe Ilustrator",
+        "enlace":"https://drive.google.com/drive/folders/100D9XgKSMfecFDRiyTitIiwaBH2YXgBU",
+        "id": 4
+      },
+      {
+        "nombre": "Matte painting",
+        "herramientas": "Photoshop",
+        "enlace":"https://drive.google.com/drive/folders/1CiEB9EOjRFpiTxQjg7rmm6RcojcpPVqC",
+        "id": 5
+      },
+      {
+        "nombre": "Publicidad",
+        "herramientas": "Photoshop",
+        "enlace":"https://drive.google.com/drive/folders/1vUVC7eyZhcfJHCaIgCl4NkpTU_h-RCCV",
+        "id": 6
+      },
+      
+      {
+        "nombre": "Diario",
+        "herramientas": "InDesign",
+        "enlace":"https://drive.google.com/drive/folders/1CiEB9EOjRFpiTxQjg7rmm6RcojcpPVqC",
+        "id": 7
+      },
+      {
+        "nombre": "Revista",
+        "herramientas": "InDesign",
+        "enlace":"",
+        "id": 8
+      }
+    ],"Experiencia":[
+      {
+        "titulo":"Grupo MSA",
+        "subtitulo":"Pasantia Front-End",
+        "descripcion":"A partir de un software de validación de datos ya creado, tuve la tarea entender el funcionamiento y modificarlo, el codigo usaba de react typescript y me encarge de los estados globales con context. La metodologia usada fue scrum.",
+        "id":1
+      },
+      {
+        "titulo":"Universidad Tecnológica Nacional",
+        "subtitulo":"Profesora",
+        "descripcion":"Dictaré un curso de programación inicial con pseudocodigo en español,  para que tengan una idea inicial de lo que es la programación y mejorar su logica a la hora de resolver problemas.",
+        "id":2
+      }
+    ]
+
+  },
+  "DW": {
+    "Estudios": [
+      {
+        "titulo": "Diplomatura en Desarrollo web Full Stack",
+        "descripcion": "Estoy cursando la Diplomatura de Desarrollo Web Full Stack gracias al programa 'Emplear + Empujar', en colaboración con la reconocida UTN, que nos brinda conocimientos en programación.",
+        "id": 1
+      },
+      {
+        "titulo": "Oracle Oracle Next Education",
+        "descripcion": "Completé el programa Oracle One, reforzando mis fundamentos de programación. Luego opté por especializarme en el desarrollo Back-End, eligiendo Java y Spring Boot como las tecnologías que me permitirían llevarlo a cabo.",
+        "id": 2
+      },
+      {
+        "titulo": "Educación IT Javascript desde cero",
+        "descripcion": "Durante el curso, adquirí conocimientos sobre JavaScript y su versatilidad. A través de teoría y ejercicios prácticos, logré aplicar el lenguaje en situaciones concretas. También exploramos conceptos básicos de HTML y CSS, fortaleciendo mi base técnica para el desarrollo web.",
+        "id": 3
+      },
+      {
+        "titulo": "Egg Education Programación desde cero",
+        "descripcion": "A lo largo del curso, asimilé los principios y fundamentos de la programación, basándome no solo en la práctica de ejercicios, sino también en el entendimiento teórico. Además, participé activamente en diversos grupos para colaborar en la resolución conjunta de estos ejercicios.",
+        "id": 4
+      },
+      {
+        "titulo": "Argentina Programa #Se programar",
+        "descripcion": "Durante este curso, no solo adquirí un conocimiento profundo de lenguajes como JavaScript y Ruby, sino que también me involucré activamente en la resolución de más de 200 ejercicios a lo largo de este trayecto.",
+        "id": 5
+      }
+    ],
+    "Habilidades": [
+      {
+        "porcentaje": "75%",
+        "nombre": "React",
+        "id": 1
+      },
+      {
+        "porcentaje": "50%",
+        "nombre": "HTML",
+        "id": 2
+      },
+      {
+        "porcentaje": "20%",
+        "nombre": "CSS",
+        "id": 3
+      },
+      {
+        "porcentaje": "60%",
+        "nombre": "JavaScript",
+        "id": 4
+      },
+      {
+        "porcentaje": "35%",
+        "nombre": "Node js",
+        "id": 5
+      },
+      {
+        "porcentaje": "40%",
+        "nombre": "Mongo",
+        "id": 6
+      },
+      {
+        "porcentaje": "20%",
+        "nombre": "SQL",
+        "id": 7
+      },
+      {
+        "porcentaje": "45%",
+        "nombre": "Express",
+        "id": 8
+      },
+      {
+        "porcentaje": "15%",
+        "nombre": "Java",
+        "id": 9
+      },
+      {
+        "porcentaje": "10%",
+        "nombre": "Spring Boot",
+        "id": 10
+      },
+      {
+        "porcentaje": "10%",
+        "nombre": "Typescript",
+        "id": 12
+      },
+      {
+        "porcentaje": "30%",
+        "nombre": "Angular",
+        "id": 13
+      }
+    ],"Experiencia":[
+      {
+        "titulo":"Grupo MSA",
+        "subtitulo":"Pasantia Front-End",
+        "descripcion":"A partir de un software de validación de datos ya creado, tuve la tarea entender el funcionamiento y modificarlo, el codigo usaba de react typescript y me encarge de los estados globales con context. La metodologia usada fue scrum.",
+        "id":1
+      },
+      {
+        "titulo":"Universidad Tecnológica Nacional",
+        "subtitulo":"Profesora",
+        "descripcion":"Dictaré un curso de programación inicial con pseudocodigo en español,  para que tengan una idea inicial de lo que es la programación y mejorar su logica a la hora de resolver problemas.",
+        "id":2
+      }
+    ],
+    "Proyectos": [
+      {
+        "nombre": "Ecommerce",
+        "herramientas": "React, Node js, Mongo",
+        "enlace": "https://github.com/Braiton98/Ecommerce-front-back",
+        "id": 1
+      },
+      {
+        "nombre": "Color flippers",
+        "herramientas": "Javascript, Html, Css",
+        "enlace": "https://github.com/CandeFer/Proyectos/tree/main/Color%20flippers",
+        "id": 2
+      },
+      {
+        "nombre": "Peliculas Api",
+        "herramientas": "Javascript, Html, Css",
+        "enlace": "https://github.com/CandeFer/Proyectos/tree/main/Peliculas%20Api",
+        "id": 3
+      },
+      {
+        "nombre": "Counter",
+        "herramientas": "Javascript, Html, Css",
+        "enlace": "https://github.com/CandeFer/Proyectos/tree/main/Counter",
+        "id": 5
+      }
+    ]
+  },
+  "DiW": {
+    "Estudios": [
+      {
+        "titulo": "Codo a Codo Diseño UX/UI",
+        "descripcion": "A lo largo del curso, exploramos los fundamentos esenciales del diseño UX/UI. Trabajando en equipo, llevamos a cabo el diseño completo de una aplicación móvil. Esta experiencia destacó la importancia de la colaboración para crear una experiencia digital sólida y atractiva.",
+        "id": 1
+      }
+    ],
+    "Habilidades": [
+      {
+        "porcentaje": "75%",
+        "nombre": "Figma",
+        "id": 1
+      },
+      {
+        "porcentaje": "80%",
+        "nombre": "Photoshop",
+        "id": 2
+      },
+      {
+        "porcentaje": "50%",
+        "nombre": "Illustrator",
+        "id": 3
+      }
+    ],
+    "Proyectos": [
+      {
+        "nombre": "Divigalo",
+        "herramientas": "Figma",
+        "enlace": "https://www.figma.com/file/QTdC8boNkLhORSQCaqLV5D/Divigalo?type=design&node-id=101-3047&mode=design&t=OEZ0SARlSipnAHCk-0",
+        "id": 1
+      },
+      {
+        "nombre": "Portfolio",
+        "herramientas": "Figma",
+        "enlace": "https://www.figma.com/file/MArAsHOvtUeeKaKaSSx2x0/Portfolio-y-CV?type=design&node-id=0%3A1&mode=design&t=OEZ0SARlSipnAHCk-1",
+        "id": 2
+      }
+    ],
+    "Experiencia":[
+      {
+        "titulo":"Grupo MSA",
+        "subtitulo":"Pasantia Front-End",
+        "descripcion":"A partir de un software de validación de datos ya creado, tuve la tarea entender el funcionamiento y modificarlo, el codigo usaba de react typescript y me encarge de los estados globales con context. La metodologia usada fue scrum.",
+        "id":1
+      },
+      {
+        "titulo":"Universidad Tecnológica Nacional",
+        "subtitulo":"Profesora",
+        "descripcion":"Dictaré un curso de programación inicial con pseudocodigo en español,  para que tengan una idea inicial de lo que es la programación y mejorar su logica a la hora de resolver problemas.",
+        "id":2
+      }
+    ]
+  }
+}
