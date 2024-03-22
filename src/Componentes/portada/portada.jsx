@@ -1,4 +1,4 @@
-import Foto from '../../assets/Imagenes/Foto.svg'
+import Foto from '/Foto.svg'
 import Descarga from '../Descarga/Descarga'
 import './portada.css'
 
