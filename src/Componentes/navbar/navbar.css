@@ -39,10 +39,11 @@ nav {
     list-style: none;
     padding: 10px;
     text-align: center;
+  
 }
 
 .lista-active li:hover {
-    border-bottom: 2px solid #B629F2;
+   color: #B629F2;
 }
 
 @media screen and (max-width: 830px) {

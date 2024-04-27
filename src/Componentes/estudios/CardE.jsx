@@ -1,5 +1,5 @@
 import { Contexto } from '../../Context/context'
-import { useContext} from 'react'
+import { useContext } from 'react'
 
 
 const CardE = () => {
@@ -18,8 +18,10 @@ const CardE = () => {
                             <p>{info.descripcion}</p>
                         </div>
                     </div>
+                    
                 ))
             }
+
         </div>
     );
 }

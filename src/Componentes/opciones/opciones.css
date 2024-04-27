@@ -7,7 +7,7 @@
 .opcion {
     margin: 2%;
     background-color: #212121;
-    width: 25%;
+    width: 28%;
     min-width: 85px;
     max-height: 241px;
     min-height: 85px;
@@ -17,7 +17,7 @@
 .opcion-active {
     margin-left: 2%;
     background-color: #212121;
-    max-width: 25%;
+    max-width: 28%;
     min-width: 85px;
     max-height: 241px;
     min-height: 85px;
@@ -34,7 +34,7 @@
 }
 
 .opcion h3 {
-  font-size: 1.2rem;
+  font-size: 32px;
     color: #535353;
     text-wrap: wrap;
 
@@ -44,3 +44,10 @@
     text-wrap: wrap;
     color: #535353;
 }
+
+@media screen and (max-width: 400px) {
+    .opcion h3{
+        font-size: 24px;
+    }
+}
+

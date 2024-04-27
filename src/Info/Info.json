@@ -81,9 +81,9 @@
       }
     ],"Experiencia":[
       {
-        "titulo":"Grupo MSA",
-        "subtitulo":"Pasantia Front-End",
-        "descripcion":"A partir de un software de validación de datos ya creado, tuve la tarea entender el funcionamiento y modificarlo, el codigo usaba de react typescript y me encarge de los estados globales con context. La metodologia usada fue scrum.",
+        "titulo":"Vicejefatura del GCBA",
+        "subtitulo":"Diseñadora Gráfica",
+        "descripcion":"Me dedico a diseñar y adaptar materiales de comunicación, como correos electrónicos, presentaciones y más, para transmitir mensajes claros y efectivos. Utilizo herramientas como Illustrator, Photoshop, HTML y CSS para lograrlo.",
         "id":1
       },
       {
@@ -91,6 +91,12 @@
         "subtitulo":"Profesora",
         "descripcion":"Dictaré un curso de programación inicial con pseudocodigo en español,  para que tengan una idea inicial de lo que es la programación y mejorar su logica a la hora de resolver problemas.",
         "id":2
+      },
+      {
+        "titulo":"Grupo MSA",
+        "subtitulo":"Pasantia Front-End",
+        "descripcion":"A partir de un software de validación de datos ya creado, tuve la tarea entender el funcionamiento y modificarlo, el codigo usaba de react typescript y me encarge de los estados globales con context. La metodologia usada fue scrum.",
+        "id":3
       }
     ]
 
@@ -186,9 +192,9 @@
       }
     ],"Experiencia":[
       {
-        "titulo":"Grupo MSA",
-        "subtitulo":"Pasantia Front-End",
-        "descripcion":"A partir de un software de validación de datos ya creado, tuve la tarea entender el funcionamiento y modificarlo, el codigo usaba de react typescript y me encarge de los estados globales con context. La metodologia usada fue scrum.",
+        "titulo":"Vicejefatura del GCBA",
+        "subtitulo":"Diseñadora Gráfica",
+        "descripcion":"Me dedico a diseñar y adaptar materiales de comunicación, como correos electrónicos, presentaciones y más, para transmitir mensajes claros y efectivos. Utilizo herramientas como Illustrator, Photoshop, HTML y CSS para lograrlo.",
         "id":1
       },
       {
@@ -196,6 +202,12 @@
         "subtitulo":"Profesora",
         "descripcion":"Dictaré un curso de programación inicial con pseudocodigo en español,  para que tengan una idea inicial de lo que es la programación y mejorar su logica a la hora de resolver problemas.",
         "id":2
+      },
+      {
+        "titulo":"Grupo MSA",
+        "subtitulo":"Pasantia Front-End",
+        "descripcion":"A partir de un software de validación de datos ya creado, tuve la tarea entender el funcionamiento y modificarlo, el codigo usaba de react typescript y me encarge de los estados globales con context. La metodologia usada fue scrum.",
+        "id":3
       }
     ],
     "Proyectos": [
@@ -266,9 +278,9 @@
     ],
     "Experiencia":[
       {
-        "titulo":"Grupo MSA",
-        "subtitulo":"Pasantia Front-End",
-        "descripcion":"A partir de un software de validación de datos ya creado, tuve la tarea entender el funcionamiento y modificarlo, el codigo usaba de react typescript y me encarge de los estados globales con context. La metodologia usada fue scrum.",
+        "titulo":"Vicejefatura del GCBA",
+        "subtitulo":"Diseñadora Gráfica ",
+        "descripcion":"Me dedico a diseñar y adaptar materiales de comunicación, como correos electrónicos, presentaciones y más, para transmitir mensajes claros y efectivos. Utilizo herramientas como Illustrator, Photoshop, HTML y CSS para lograrlo.",
         "id":1
       },
       {
@@ -276,6 +288,12 @@
         "subtitulo":"Profesora",
         "descripcion":"Dictaré un curso de programación inicial con pseudocodigo en español,  para que tengan una idea inicial de lo que es la programación y mejorar su logica a la hora de resolver problemas.",
         "id":2
+      },
+      {
+        "titulo":"Grupo MSA",
+        "subtitulo":"Pasantia Front-End",
+        "descripcion":"A partir de un software de validación de datos ya creado, tuve la tarea entender el funcionamiento y modificarlo, el codigo usaba de react typescript y me encarge de los estados globales con context. La metodologia usada fue scrum.",
+        "id":3
       }
     ]
   }

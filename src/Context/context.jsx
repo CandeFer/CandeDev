@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import { createContext, useEffect, useState } from 'react';
+import { createContext, useState } from 'react';
 import info from '../Info/Info.json';
 
 export const Contexto = createContext();
@@ -13,9 +13,6 @@ export const ContextoProvider = ({ children }) => {
     setInfor(archivo);
   };
 
-  useEffect(() => {
-    console.log(infor);
-  }, [infor]);
 
   return (
     <Contexto.Provider value={{ infor, updateContexto }}>

@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import Logo from '../../assets/Imagenes/CandeDev.svg';
+import Logo from '../../assets/Imagenes/CandeIT.svg';
 import Menu from '../../assets/Iconos/bx-menu.svg';
 import useScrollToElement from '../../Hooks/Scroll';
 
@@ -31,7 +31,6 @@ const Navbar = () => {
                 <li onClick={() => scrollToElement("Habilidades")}>Habilidades</li>
                 <li onClick={() => scrollToElement("Proyectos")}>Proyectos</li>
                 <li onClick={() => scrollToElement("Experiencia")}>Experiencia</li>
-                <li onClick={() => scrollToElement("Servicios")}>Servicios</li>
                 <li onClick={() => scrollToElement("Contacto")}>Contacto</li>
             </ul>
 
