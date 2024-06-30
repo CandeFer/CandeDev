@@ -8,26 +8,26 @@
       }
     ],
     "Habilidades": [
-      {
-        "porcentaje": "75%",
-        "nombre": "Figma",
-        "id": 1
-      },
-      {
-        "porcentaje": "80%",
-        "nombre": "Photoshop",
-        "id": 2
-      },
-      {
-        "porcentaje": "50%",
-        "nombre": "Illustrator",
-        "id": 3
-      },
-      {
-        "porcentaje": "30%",
-        "nombre": "InDesign",
-        "id": 4
-      }
+        {
+          "porcentaje": "80%",
+          "nombre": "Photoshop",
+          "id": 2
+        },
+        {
+          "porcentaje": "75%",
+          "nombre": "Figma",
+          "id": 1
+        },
+        {
+          "porcentaje": "60%",
+          "nombre": "Illustrator",
+          "id": 3
+        },
+        {
+          "porcentaje": "30%",
+          "nombre": "InDesign",
+          "id": 4
+        }
     ],
     "Proyectos": [
       {
@@ -81,9 +81,9 @@
       }
     ],"Experiencia":[
       {
-        "titulo":"Vicejefatura del GCBA",
+        "titulo":"Subsecretaría de Transformación Social y Cultural",
         "subtitulo":"Diseñadora Gráfica",
-        "descripcion":"Me dedico a diseñar y adaptar materiales de comunicación, como correos electrónicos, presentaciones y más, para transmitir mensajes claros y efectivos. Utilizo herramientas como Illustrator, Photoshop, HTML y CSS para lograrlo.",
+        "descripcion":"Me dedico a diseñar y adaptar materiales de comunicación, como correos electrónicos, presentaciones y banners, stories, piezas de whatsapp, etc,  para transmitir mensajes claros y efectivos.",
         "id":1
       },
       {
@@ -130,71 +130,72 @@
       }
     ],
     "Habilidades": [
-      {
-        "porcentaje": "75%",
-        "nombre": "React",
-        "id": 1
-      },
-      {
-        "porcentaje": "50%",
-        "nombre": "HTML",
-        "id": 2
-      },
-      {
-        "porcentaje": "20%",
-        "nombre": "CSS",
-        "id": 3
-      },
-      {
-        "porcentaje": "60%",
-        "nombre": "JavaScript",
-        "id": 4
-      },
-      {
-        "porcentaje": "35%",
-        "nombre": "Node js",
-        "id": 5
-      },
-      {
-        "porcentaje": "40%",
-        "nombre": "Mongo",
-        "id": 6
-      },
-      {
-        "porcentaje": "20%",
-        "nombre": "SQL",
-        "id": 7
-      },
-      {
-        "porcentaje": "45%",
-        "nombre": "Express",
-        "id": 8
-      },
-      {
-        "porcentaje": "15%",
-        "nombre": "Java",
-        "id": 9
-      },
-      {
-        "porcentaje": "10%",
-        "nombre": "Spring Boot",
-        "id": 10
-      },
-      {
-        "porcentaje": "10%",
-        "nombre": "Typescript",
-        "id": 12
-      },
-      {
-        "porcentaje": "30%",
-        "nombre": "Angular",
-        "id": 13
-      }
+      
+        {
+          "porcentaje": "75%",
+          "nombre": "React",
+          "id": 1
+        },
+        {
+          "porcentaje": "60%",
+          "nombre": "JavaScript",
+          "id": 4
+        },
+        {
+          "porcentaje": "50%",
+          "nombre": "HTML",
+          "id": 2
+        },
+        {
+          "porcentaje": "45%",
+          "nombre": "Express",
+          "id": 8
+        },
+        {
+          "porcentaje": "40%",
+          "nombre": "Mongo",
+          "id": 6
+        },
+        {
+          "porcentaje": "35%",
+          "nombre": "Node js",
+          "id": 5
+        },
+        {
+          "porcentaje": "30%",
+          "nombre": "Angular",
+          "id": 13
+        },
+        {
+          "porcentaje": "20%",
+          "nombre": "CSS",
+          "id": 3
+        },
+        {
+          "porcentaje": "20%",
+          "nombre": "SQL",
+          "id": 7
+        },
+        {
+          "porcentaje": "15%",
+          "nombre": "Java",
+          "id": 9
+        },
+        {
+          "porcentaje": "10%",
+          "nombre": "Spring Boot",
+          "id": 10
+        },
+        {
+          "porcentaje": "10%",
+          "nombre": "Typescript",
+          "id": 12
+        }
     ],"Experiencia":[
       {
-        "titulo":"Vicejefatura del GCBA",
+        "titulo":"Subsecretaría de Transformación Social y Cultural",
         "subtitulo":"Diseñadora Gráfica",
-        "descripcion":"Me dedico a diseñar y adaptar materiales de comunicación, como correos electrónicos, presentaciones y más, para transmitir mensajes claros y efectivos. Utilizo herramientas como Illustrator, Photoshop, HTML y CSS para lograrlo.",
+        "descripcion":"Me dedico a diseñar y adaptar materiales de comunicación, como correos electrónicos, presentaciones y banners, stories, piezas de whatsapp, etc,  para transmitir mensajes claros y efectivos.",
         "id":1
       },
       {
@@ -247,17 +248,17 @@
     ],
     "Habilidades": [
       {
-        "porcentaje": "75%",
-        "nombre": "Figma",
+        "porcentaje": "80%",
+        "nombre": "Photoshop",
         "id": 1
       },
       {
-        "porcentaje": "80%",
-        "nombre": "Photoshop",
+        "porcentaje": "75%",
+        "nombre": "Figma",
         "id": 2
       },
       {
-        "porcentaje": "50%",
+        "porcentaje": "60%",
         "nombre": "Illustrator",
         "id": 3
       }
@@ -278,9 +279,9 @@
     ],
     "Experiencia":[
       {
-        "titulo":"Vicejefatura del GCBA",
-        "subtitulo":"Diseñadora Gráfica ",
-        "descripcion":"Me dedico a diseñar y adaptar materiales de comunicación, como correos electrónicos, presentaciones y más, para transmitir mensajes claros y efectivos. Utilizo herramientas como Illustrator, Photoshop, HTML y CSS para lograrlo.",
+        "titulo":"Subsecretaría de Transformación Social y Cultural",
+        "subtitulo":"Diseñadora Gráfica",
+        "descripcion":"Me dedico a diseñar y adaptar materiales de comunicación, como correos electrónicos, presentaciones y banners, stories, piezas de whatsapp, etc, para transmitir mensajes claros y efectivos.",
         "id":1
       },
       {
